@@ -1,0 +1,23 @@
+{
+  "name": "sharpner_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pra1233/SHARPNER_NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pra1233/SHARPNER_NODEJS/issues"
+  },
+  "homepage": "https://github.com/Pra1233/SHARPNER_NODEJS#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
